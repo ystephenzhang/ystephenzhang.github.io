@@ -29,8 +29,23 @@
 {%- endcomment -%}
 
 {%- if site.copyright.msg != nil and site.copyright.msg != empty and site.copyright.msg != null -%}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <div id="copyright">
     <p id="copyright-notice"> {{site.copyright.year}} • {{site.copyright.msg}} •
         Credits</a> </p>
 </div> 
+<div class="contact-icons">
+    <a href="mailto:youremail@example.com" title="Email">
+        <i class="fas fa-envelope"></i>
+    </a>
+    <a href="tel:+123456789" title="Phone">
+        <i class="fas fa-phone"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/yourprofile" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://github.com/yourusername" target="_blank" title="GitHub">
+        <i class="fab fa-github"></i>
+    </a>
+</div>
 {%- endif -%}
