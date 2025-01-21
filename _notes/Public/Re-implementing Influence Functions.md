@@ -1,8 +1,7 @@
 ---
-title: "[Exploration] Re-implementing Influence Functions"
+title: Re-implementing Influence Functions
 feed: show
 date: 01-18-2025
-format: list
 ---
 ### Theoretical Framework
 This work aims to reproduce figure-2-2 in *Understanding Black-box Predictions via Influence Functions* [Koh and Liang, 2020]. The figure plots predicted difference in loss (represented by influence function as $-\frac{1}{n}I_{loss}(z,z_{test})$) against actual difference in loss (represented by difference of loss after retraining as in $L(z_{test}, \theta/\{z\}) - L(z_{test}, \theta)$), of 500 samples with the highest influence $|I_{loss}(z,z_{test})|$. The two quantities' high correlation should show influence function's stability in reflecting the effect of removing one training sample.
