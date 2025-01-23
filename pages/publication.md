@@ -1,5 +1,6 @@
 ---
 layout: Post
+permalink: /publications
 feedformat: list
 title: Publications
 ---
