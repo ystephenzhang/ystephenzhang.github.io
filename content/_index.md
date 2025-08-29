@@ -28,7 +28,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: themaine.jpg
           filters:
-            brightness: 0.7
+            brightness: 0.67
           size: cover
           position: center
           parallax: false
@@ -40,9 +40,9 @@ sections:
       title: 'Thanks for Scrolling Down!'
       subtitle: ''
       text: |-
-        I am an undergraduate in the Zhi Class Honors Program at Peking University, currently conducting research internships at Prof. Rose Yu's Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. Michael Shieh @ National University of Singapore and Prof. Yaodong Yang @ Peking University.
+        I am an undergraduate in the [Zhi Class](https://zhi-class.ai) Honors Program at Peking University, currently conducting research internships at Prof. [Rose Yu](https://roseyu.com)'s Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. [Michael Shieh](https://nus-trail.github.io) @ National University of Singapore and Prof. [Yaodong Yang](https://github.com/PKU-Alignment) @ Peking University. Please see 'experience' page for details.
         
-        My research interests lie in large language models, alignment, and cost-aware experimental design, with a focus on how AI systems can integrate human knowledge, reasoning, and efficiency. I have co-authored works at NeurIPS and am leading ongoing projects on alignment benchmarks and agentic frameworks for costly scientific experiments.
+        My research interests lie in understanding, grounding and building large language models (systems) for impactful application. This would include fileds such as alignment, interpretability and agent systems. and cost-aware experimental design, with a focus on how AI systems can integrate human knowledge, reasoning, and efficiency. Please see 'writings' page for what I've been tinkering.
     design:
       columns: '1'
   - block: collection
@@ -50,36 +50,37 @@ sections:
     content:
       title: Featured Publications
       filters:
+        tag: "Publish" 
         folders:
           - publication
         featured_only: true
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: ""
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
+#    design:
+#      view: citation
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      view: article-grid
+#      columns: 1
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent Blogs
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -90,7 +91,7 @@ sections:
       filters:
         author: ""
         category: ""
-        tag: ""
+        tag: "Publish"
         exclude_featured: false
         exclude_future: false
         exclude_past: false
