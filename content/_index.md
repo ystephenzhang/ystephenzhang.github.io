@@ -19,7 +19,6 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
       # Avatar customization
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
