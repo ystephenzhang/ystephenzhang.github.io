@@ -10,7 +10,6 @@ first_name: Yang Stephen
 last_name: Zhang
 
 # Pronouns (optional)
-pronouns: 
 
 # Status emoji
 status:
