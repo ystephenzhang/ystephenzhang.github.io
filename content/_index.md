@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "One Must Imagine Sisyphus Happy"
 date: 2022-10-24
 type: landing
 
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/PhD_CV_Sep.pdf
     design:
       # Avatar customization
       avatar:
@@ -26,7 +26,7 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: themaine.jpeg
+          filename: themaine.jpg
           filters:
             brightness: 0.7
           size: cover
@@ -37,14 +37,12 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Thanks for Scrolling Down!'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am an undergraduate in the Zhi Class Honors Program at Peking University, currently conducting research internships at Prof. Rose Yu's Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. Michael Shieh @ National University of Singapore and Prof. Yaodong Yang @ Peking University.
         
-        Please reach out to collaborate 😃
+        My research interests lie in large language models, alignment, and cost-aware experimental design, with a focus on how AI systems can integrate human knowledge, reasoning, and efficiency. I have co-authored works at NeurIPS and am leading ongoing projects on alignment benchmarks and agentic frameworks for costly scientific experiments.
     design:
       columns: '1'
   - block: collection
