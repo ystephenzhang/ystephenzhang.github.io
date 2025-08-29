@@ -34,6 +34,7 @@ sections:
           position: center
           parallax: false
           text_color_light: false
+        text_color_light: false
 
   - block: markdown
     content:
