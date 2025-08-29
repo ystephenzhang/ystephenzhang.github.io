@@ -26,9 +26,9 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: clouds.jpeg
+          filename: themaine.jpeg
           filters:
-            brightness: 0.6
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
