@@ -28,7 +28,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: clouds.jpeg
           filters:
-            brightness: 0.5
+            brightness: 0.6
           size: cover
           position: center
           parallax: false
