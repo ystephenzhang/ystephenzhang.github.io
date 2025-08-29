@@ -49,8 +49,8 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
-    url: ""
+#  - type: pdf
+#    url: ""
 
 
 # Featured image
