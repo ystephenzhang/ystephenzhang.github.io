@@ -25,15 +25,17 @@ sections:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: clouds.jpeg
           filters:
-            brightness: 1.0
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
+          text_color_light: fakse
+          
   - block: markdown
     content:
       title: '📚 My Research'
