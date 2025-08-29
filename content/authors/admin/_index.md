@@ -17,10 +17,10 @@ status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Chief Scientist
