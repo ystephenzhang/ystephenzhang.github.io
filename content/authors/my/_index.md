@@ -53,15 +53,15 @@ interests:
 education:
   - area: Research Intern
     institution: University of California San Diego
-    date_start: 2025-06
-    date_end: 2025-09
+    date_start: 2025-06-23
+    date_end: 2025-09-04
     summary: |
       Supervised by Prof. Rose Yu of the Spatiotemporal ML Lab.
 
   - area: Exchange Student
     institution: National University of Singapore
-    date_start: 2024-08
-    date_end: 2024-12
+    date_start: 2024-08-05
+    date_end: 2024-12-16
     summary: |
       Supervised by Prof. Michael Shieh of John AI Lab.
     button:
@@ -70,8 +70,8 @@ education:
 
   - area: BSc Intelligence Science and Technology
     institution: Peking University
-    date_start: 2022-08
-    date_end: 2026-08
+    date_start: 2022-08-05
+    date_end: 2026-08-26
     summary: |
       GPA: 3.56/4.0
       
