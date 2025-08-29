@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张 洋
+title: 张洋
 
 # Name pronunciation (optional)
 name_pronunciation: Zhang Yang
