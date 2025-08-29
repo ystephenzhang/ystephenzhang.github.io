@@ -133,4 +133,6 @@ awards:
 
 ## About Me
 
-Aligning Large Language Models with the advancement of human knowledge, productivity and society.
+Aligning Large Language Models with the advancement of human knowledge, productivity and society. Also does funky stuff on the guitar.
+
+---
