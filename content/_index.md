@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/PhD_CV_Sep.pdf
+        url: uploads/PhD_CV.pdf
     design:
       # Avatar customization
       avatar:
@@ -40,7 +40,7 @@ sections:
       title: 'Thanks for Scrolling Down!'
       subtitle: ''
       text: |-
-        I am an undergraduate in the [Zhi Class](https://zhi-class.ai) Honors Program at Peking University, currently conducting research internships at Prof. [Rose Yu](https://roseyu.com)'s Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. [Michael Shieh](https://nus-trail.github.io) @ National University of Singapore and Prof. [Yaodong Yang](https://github.com/PKU-Alignment) @ Peking University. Please see 'experience' page for details.
+        I am an undergraduate in the [Zhi Class](https://zhi-class.ai) Honors Program at Peking University, currently conducting research internships at Prof. [Rose Yu](https://roseyu.com)'s Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. [Yaodong Yang](https://github.com/PKU-Alignment) @ Peking University. Please see 'experience' page for details.
         
         My research interests lie in understanding, grounding and building large language models (systems) for impactful application. This would include fileds such as alignment, interpretability and agent systems. and cost-aware experimental design, with a focus on how AI systems can integrate human knowledge, reasoning, and efficiency. Please see 'writings' page for what I've been tinkering.
     design:
