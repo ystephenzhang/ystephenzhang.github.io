@@ -40,9 +40,9 @@ sections:
       title: 'Thanks for Scrolling Down!'
       subtitle: ''
       text: |-
-        I am an undergraduate in the [Zhi Class](https://zhi-class.ai) Honors Program at Peking University, currently conducting research internships at Prof. [Rose Yu](https://roseyu.com)'s Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. [Yaodong Yang](https://github.com/PKU-Alignment) @ Peking University. Please see 'experience' page for details.
+        I am a senior undergraduate in the [Zhi Class](https://zhi-class.ai) Honors Program at Peking University, currently conducting research internships at Prof. [Rose Yu](https://roseyu.com)'s Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. [Yaodong Yang](https://github.com/PKU-Alignment) @ Peking University. Please see 'experience' page for details.
         
-        My research interests lie in understanding, grounding and building large language models (systems) for impactful application. This would include fileds such as alignment, interpretability and agent systems. and cost-aware experimental design, with a focus on how AI systems can integrate human knowledge, reasoning, and efficiency. Please see 'writings' page for what I've been tinkering.
+        My research interests lie in understanding, grounding and building large language models for impactful application. This would include fileds such as alignment, interpretability and agent systems. My ultimate goal is to build AI systems that boosts moral progress and equitable access, and AI agents that advance us in high-value domains such as science. Please see 'writings' page for what I've been tinkering.
     design:
       columns: '1'
   - block: collection

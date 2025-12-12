@@ -46,24 +46,24 @@ profiles:
 
 
 interests:
-  - AI Alignment
-  - Natural Language Processing
-  - Agentic Framework
+  - Trustworthy AI
+  - Equitable AI
+  - Domain Agents
 
 education:
   - area: Research Intern
     institution: University of California San Diego
     date_start: 2025-06-23
-    date_end: 2025-09-04
+    date_end: 2025-09-28
     summary: |
-      Supervised by Prof. Rose Yu of the Spatiotemporal ML Lab.
+      Supervised by Prof. Rose Yu of the Rose Spatiotemporal ML Lab.
 
   - area: Exchange Student
     institution: National University of Singapore
     date_start: 2024-08-05
     date_end: 2024-12-16
     summary: |
-      Supervised by Prof. Michael Shieh of John AI Lab.
+      Supervised by Prof. Michael Shieh of TRAIL Lab.
     button:
       text: 'Work Completed'
       url: 'https://arxiv.org/abs/2506.09890'    
@@ -132,4 +132,4 @@ languages:
 
 ## About Me
 
-Aligning Large Language Models with the advancement of human knowledge, productivity and society. Also does funky stuff on the guitar.
+Aligning today's highly-capable AI systems with social and intellectual progress. Also does funky stuff on the guitar.
