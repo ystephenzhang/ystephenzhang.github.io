@@ -37,7 +37,7 @@ abstract: Frontier AI systems, including large language models (LLMs), hold incr
 summary: TL;DR. We introduce progress alignment, a new paradigm for aligning AI systems with the trajectory of human moral progress, and provide relevant dataset, benchmark and baseline implementations.
 
 tags:
-  - Publish
+  - Published
 
 # Display this page in the Featured widget?
 featured: true

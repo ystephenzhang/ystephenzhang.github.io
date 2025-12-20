@@ -41,10 +41,10 @@ abstract: As large language models (LLMs) continue to advance, their capacity to
 summary: We uncover a core language-agnostic parameter space in large language models—a small but critical set of shared neurons that resemble abstract reasoning beyond any single language.
 
 tags:
-  - Publish
+  - Published
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Standard identifiers for auto-linking
 hugoblox:

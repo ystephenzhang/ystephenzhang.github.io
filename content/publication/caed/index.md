@@ -35,7 +35,7 @@ abstract: The adjustment of parameters for expensive computer simulations is a c
 summary: TL;DR. We present CASCO-Agent, a large-language-model agent framework that utilizes inference-time scaling with lightweight surrogate feedback to automate the configuratons of expensive simulators.
 
 tags:
-  - Publish
+  - Blogs
 
 # Display this page in the Featured widget?
 featured: true
