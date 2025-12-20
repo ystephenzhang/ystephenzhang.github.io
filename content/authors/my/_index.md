@@ -46,7 +46,7 @@ profiles:
 
 
 interests:
-  - Trustworthy AI
+  - Value Alignment
   - Equitable AI
   - Domain Agents
 
