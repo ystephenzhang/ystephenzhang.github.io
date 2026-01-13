@@ -1,7 +1,7 @@
 ---
 title: "Multi-Modal Learning Project"
 summary: "Inference-time scaling for multimodal reasoning, improving accuracy and efficiency under tight compute."
-date: 2024-05-20
+date: 2026-01-11
 authors:
   - my
 tags:

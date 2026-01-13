@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Course Project"
 summary: "Complementing OpenEvolve with experience replay to find solution for a problem that's on par with human-expert SOTA (which no code-generation agent has accomplished before)."
-date: 2025-01-12
+date: 2026-01-12
 authors:
   - Yang Zhang
   - Yanru Guan
