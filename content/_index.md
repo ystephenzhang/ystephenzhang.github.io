@@ -49,9 +49,10 @@ sections:
     content:
       title: 'Recent News'
       text: |-
+        - [2026.01.07] I've joined ByteDance as an intern, working with the amazing Lark (Feishu) Search/AI team.
         - <span style="color:red">I'm actively seeking for PhD opportunities starting in 2026 Fall. Feel free to reach out!</span>
         - [2025.12.19] I was awarded the ["Qiusuo" Scholarship](https://eecs.pku.edu.cn/info/1040/9023.htm) by School of Electric Engineering and Computer Science, Peking University (10 recipients).
-        - [2025.12.04] I was awarded the ["Taotian" Scholarship](https://sai.pku.edu.cn/info/1083/9045.htm) by School of Intelligence Science and Technology, Peking University (4 undergraduate recipients).
+        - [2025.12.04] I was awarded the ["Taotian" Scholarship](https://sai.pku.edu.cn/info/1083/9045.htm) jointly by Alibaba and School of Intelligence Science and Technology of Peking University (4 undergraduate recipients).
         - [2025.12.01] Welcome to my website!
 
   - block: collection
