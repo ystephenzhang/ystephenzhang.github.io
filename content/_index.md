@@ -40,15 +40,17 @@ sections:
       title: 'Thanks for Scrolling Down!'
       subtitle: ''
       text: |-
-        I am a senior undergraduate in the [Zhi Class](https://zhi-class.ai) Honors Program at Peking University, currently conducting research internships at Prof. [Rose Yu](https://roseyu.com)'s Lab @ UC San Diego. Previously, I was fortunate enough to be supervised by Prof. [Yaodong Yang](https://github.com/PKU-Alignment) @ Peking University. Please see 'experience' page for details.
+        I am a PhD student starting in 2026 Fall in the [Security Learning Lab](https://aisecure.github.io/GROUP/index.html), led by the fantastic Prof. Bo Li, at the Siebel School of Computing and Data Science, UIUC. Previously, I was a fortunate first-batch graduate of Peking University's ['Zhi Class'](https://eecs.pku.edu.cn/en/Education/Programs.htm) Honors Program. Please see 'experience' page for details.
         
-        My research interests lie in understanding, grounding and building large language models for impactful application. This would include fileds such as alignment, interpretability and agent systems. My ultimate goal is to build AI systems that boosts moral progress and equitable access, and AI agents that advance us in high-value domains such as science. Please see 'writings' page for what I've been tinkering.
+        My research interests lie in securing, grounding and orchestrating large language models for impactful application. This would include fileds such as safety alignment, interpretability and agent systems. My ultimate goal is to build AI systems that not just 'automates', but advance us in high-value domains such as science. Please see 'writings' page for what I've been tinkering.
     design:
       columns: '1'
   - block: markdown
     content:
       title: 'Recent News'
       text: |-
+        - [2026.08.18] I've officially started my PhD journey in UIUC under Prof. Bo Li, focusing on AI security. Wish me luck!
+        - [2026.05.21] I've defended my undergraduate thesis with an A grading; see the script [here].
         - [2026.01.07] I've joined ByteDance as an intern, working with the amazing Lark (Feishu) Search/AI team.
         - <span style="color:red">I'm actively seeking for PhD opportunities starting in 2026 Fall. Feel free to reach out!</span>
         - [2025.12.19] I was awarded the ["Qiusuo" Scholarship](https://eecs.pku.edu.cn/info/1040/9023.htm) by School of Electric Engineering and Computer Science, Peking University (10 recipients).

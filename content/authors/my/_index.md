@@ -22,18 +22,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: PhD-Track Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Peking University, Intern @ UCSD Roselab
-    url: https://github.com/Rose-STL-Lab
+  - name: University of Illinois Urbana-Champaign, Secure Learning Lab
+    url: https://aisecure.github.io/GROUP/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'stephanezhang85@gmail.com'
+    url: 'yangz23@illinois.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/stephaneEmokid
@@ -46,11 +46,18 @@ profiles:
 
 
 interests:
-  - Value Alignment
-  - Equitable AI
-  - Domain Agents
+  - Red-teaming
+  - Safety Alignment
+  - Domain-specific Agents
 
 education:
+  - area: PhD Student
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2026-08-18
+    date_end: now
+    summary: |
+      Supervised by Prof. Bo Li of the Secure Learning Lab.
+
   - area: Research Intern
     institution: University of California San Diego
     date_start: 2025-06-23
