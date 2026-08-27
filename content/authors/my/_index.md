@@ -54,7 +54,6 @@ education:
   - area: PhD Student
     institution: University of Illinois Urbana-Champaign
     date_start: 2026-08-18
-    date_end: now
     summary: |
       Supervised by Prof. Bo Li of the Secure Learning Lab.
 
